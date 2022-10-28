@@ -1,0 +1,50 @@
+.d1 {
+   background-color:   rgb(8, 103, 8);
+    padding: 35 px;
+}
+
+.d2 {
+    background-color: white;
+    padding: 35 px;
+
+}
+
+.d3{
+  background-color:  rgb(137, 131, 131);
+  padding: 35 px;
+}
+
+.d4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.d5 {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-around;
+}
+.h1{
+    color: white;
+    font-family: cursive;
+    font-size: 30 px;
+}
+
+.p1{
+    white: white;
+    font-family: Courier New, monospace;
+    font-size: 20 px;
+}
+
+p,ul {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+h2,h3,h4,h5 {
+    font-family: Apple Chancery, cursive;
+    font-size: 18px;
+}
